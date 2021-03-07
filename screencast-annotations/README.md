@@ -81,6 +81,14 @@
 | [Historical Phones](#historical-phones) | 2020-11-10 | Joining tables, Animated world choropleth, Adding IQR to geom_line, World development indicators package | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=pJPqAIb8MKA) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md) |
 | [Riddler: Simulating a Circular Random Walk](#riddler-simulating-a-circular-random-walk) | 2020-11-23 | Simulation | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=b1oKh9eeqkY) | [:chart_with_upwards_trend:](https://fivethirtyeight.com/features/can-you-pass-the-cranberry-sauce/) |
 | [Ninja Warrior](#ninja-warrior) | 2020-12-15 | Log-odds with `tidylo` package, Graphing with `ggplot2` | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=4AhXvMsCooM) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-15/readme.md) |
+| [Big Mac Index](#big-mac-index) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Transit Costs](#transit-costs) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Art Collections](#art-collections) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Kenya Census](#kenya-census) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [HBCU Enrollment](#hbcu-enrollment) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Wealth and Income](#wealth-and-income) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Employment and Earnings](#employment-and-earnings) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Super Bowl Ads](#super-bowl-ads) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
 
 
 ***
@@ -2543,5 +2551,108 @@
 
 ***
 
+
+
+#### Big Mac Index
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Transit Costs
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Art Collections
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Kenya Census
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### HBCU Enrollment
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Wealth and Income
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Employment and Earnings
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
+
+
+
+#### Super Bowl Ads
+
+[Back to summary](#screencast-summary)
+
+| Screencast | Time | Description |
+| :--- | ---: | :--- |
+
+
+
+***
 
 
