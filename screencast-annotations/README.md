@@ -81,14 +81,14 @@
 | [Historical Phones](#historical-phones) | 2020-11-10 | Joining tables, Animated world choropleth, Adding IQR to geom_line, World development indicators package | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=pJPqAIb8MKA) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-11-10/readme.md) |
 | [Riddler: Simulating a Circular Random Walk](#riddler-simulating-a-circular-random-walk) | 2020-11-23 | Simulation | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=b1oKh9eeqkY) | [:chart_with_upwards_trend:](https://fivethirtyeight.com/features/can-you-pass-the-cranberry-sauce/) |
 | [Ninja Warrior](#ninja-warrior) | 2020-12-15 | Log-odds with `tidylo` package, Graphing with `ggplot2` | :heavy_check_mark: | [:link:](https://www.youtube.com/watch?v=4AhXvMsCooM) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-15/readme.md) |
-| [Big Mac Index](#big-mac-index) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Transit Costs](#transit-costs) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Art Collections](#art-collections) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Kenya Census](#kenya-census) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [HBCU Enrollment](#hbcu-enrollment) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Wealth and Income](#wealth-and-income) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Employment and Earnings](#employment-and-earnings) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
-| [Super Bowl Ads](#super-bowl-ads) | 2021 |  |  | [:link:]() | [:chart_with_upwards_trend:]() |
+| [Big Mac Index](#big-mac-index) | 2020-12-22 | Data manipulation, Pairwise correlation |  | [:link:](https://www.youtube.com/watch?v=pxJ5wtxL5Kw) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2020/2020-12-22/readme.md) |
+| [Transit Costs](#transit-costs) | 2021-01-05 | EDA (Exploratory Data Analysis) with boxplots, interactive Shiny dashboard |  | [:link:](https://www.youtube.com/watch?v=8jNQzce13SE) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-05/readme.md) |
+| [Art Collections](#art-collections) | 2021-01-12 | `geom_area` plot, Distributions, Calculating areas and ratios |  | [:link:](https://www.youtube.com/watch?v=AqwA5EJfLXo) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-12/readme.md) |
+| [Kenya Census](#kenya-census) | 2021-01-19 | Heatmap, Joining Datasets, Shapefiles, Choropleth Map, `rKenyaCensus`  |  | [:link:](https://www.youtube.com/watch?v=dM_0zjj4TtM) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-01-19/readme.md) |
+| [HBCU Enrollment](#hbcu-enrollment) | 2021-02-02 |  |  | [:link:](https://www.youtube.com/watch?v=TSG74voJQ3E) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-02-02/readme.md) |
+| [Wealth and Income](#wealth-and-income) | 2021-02-09 |  |  | [:link:](https://www.youtube.com/watch?v=WxKSauhOY4g) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-02-09/readme.md) |
+| [Employment and Earnings](#employment-and-earnings) | 2021-02-23 |  |  | [:link:](https://www.youtube.com/watch?v=gkZ5n8sfXns) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-02-23/readme.md) |
+| [Super Bowl Ads](#super-bowl-ads) | 2021-03-02 |  |  | [:link:](https://www.youtube.com/watch?v=EHqFDXa-sH4) | [:chart_with_upwards_trend:](https://github.com/rfordatascience/tidytuesday/blob/master/data/2021/2021-03-02/readme.md) |
 
 
 ***
